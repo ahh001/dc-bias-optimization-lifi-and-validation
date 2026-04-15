@@ -1,8 +1,15 @@
 # DC Bias Optimization in DCO-OFDM Li-Fi Systems
 
-This repository contains the implementation of a Li-Fi communication system combining MATLAB-based simulation, machine learning models, and real-time hardware validation using Arduino.
+#Authors
 
----
+This work is conducted by:
+
+- Esraa Abdelhakim 
+- Dina A. Ragab  
+- Mohamed Abaza  
+- Mohamed Hussien Moharam  
+
+> This repository contains the implementation associated with a research manuscript currently under review.
 
 ### Project Overview
 
@@ -11,8 +18,6 @@ The goal of this work is to optimize DC bias in DCO-OFDM Li-Fi systems using hyb
 - Simulation-based dataset generation (MATLAB)
 - Appply different machine learning models (Python)
 - Real-time validation using Li-Fi hardware (Arduino + Photodiode)
-
----
 
 # System Flow 
 
@@ -55,3 +60,8 @@ Run Models:
 ## 4. Test Hardware Dataset on ML Models
 - Load the hardware-generated dataset (CSV)
 - Apply the same trained ML models
+
+
+
+
+
