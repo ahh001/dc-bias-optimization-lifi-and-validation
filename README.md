@@ -46,10 +46,10 @@ The goal of this work is to optimize DC bias in DCO-OFDM Li-Fi systems using hyb
 ---
 # How to Use
 ## 1. Generate Dataset
-Run the MATLAB script:
+- Run the MATLAB script:
 ---
 ## 2. Train ML Models
-Run Models: 
+- Run Models: 
 ---
 ## 3. Hardware Experiment
 - Upload transmitter code to Arduino (LED side)
